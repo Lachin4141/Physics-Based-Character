@@ -1,5 +1,10 @@
 Physics-Based Character Animation Plugin
 
+Made by student of OSTIM techincal university
+Name: Lachin Azimov
+Student ID: 230201903
+
+
 A procedural character animation plugin for the Arkheon engine, implementing physics-driven motion control without pre-recorded animation data.
 
 Overview
