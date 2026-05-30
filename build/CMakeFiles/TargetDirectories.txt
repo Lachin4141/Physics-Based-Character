@@ -1,0 +1,4 @@
+C:/Users/TOP-G/OneDrive - Ostim Teknik Universitesi/Masaüstü/OSTIM/character-plugin-230201903/build/CMakeFiles/character_plugin.dir
+C:/Users/TOP-G/OneDrive - Ostim Teknik Universitesi/Masaüstü/OSTIM/character-plugin-230201903/build/CMakeFiles/standalone_test.dir
+C:/Users/TOP-G/OneDrive - Ostim Teknik Universitesi/Masaüstü/OSTIM/character-plugin-230201903/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/TOP-G/OneDrive - Ostim Teknik Universitesi/Masaüstü/OSTIM/character-plugin-230201903/build/CMakeFiles/ZERO_CHECK.dir
